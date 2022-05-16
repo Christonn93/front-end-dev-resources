@@ -5,6 +5,7 @@
 ### Typography
 
 - [material.io - The type system](https://material.io/design/typography/the-type-system.html#type-scale)
+- [Google fonts](https://fonts.google.com/)
 
 
 ### Photo editing
