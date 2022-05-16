@@ -12,6 +12,8 @@
 
 - [photopea](https://www.photopea.com/)
 - [pixlr](https://pixlr.com/x/)
+- [compressjpeg](https://compressjpeg.com/)
+- [imagecompressor](https://imagecompressor.com/)
 
 
 ### WCAG
