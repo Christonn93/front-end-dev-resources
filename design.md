@@ -14,6 +14,7 @@
 - [pixlr](https://pixlr.com/x/)
 - [compressjpeg](https://compressjpeg.com/)
 - [imagecompressor](https://imagecompressor.com/)
+- [Placehodler images](https://loremipsum.io/21-of-the-best-placeholder-image-generators/)
 
 
 ### WCAG
